@@ -1,0 +1,5 @@
+package com.cpssoft.web.test.accurate.tool;
+
+public enum ElementType {
+	TEXTFIELD, TEXTAREA, CHECKBOX, DIV, SPAN, DATEPICKER, NUMBERFIELD, LOOKUP, COMBOBOX, LABEL, RADIOBUTTON, INDICATOR, SUMMARY, REPORT, OTHER
+}
