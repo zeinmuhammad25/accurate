@@ -1,0 +1,5 @@
+2014-11-13 09:28:46,842 ACC -  INFO (com.cpssoft.web.test.framework.Main:26) - Run test executor with arguments: ["name=Trial Test","arg2=test2"]
+2014-11-13 09:29:05,474 ACC -  INFO (com.cpssoft.web.test.framework.Main:26) - Run test executor with arguments: ["name=Trial Test","driver=phantomjs"]
+2014-11-13 09:29:27,117 ACC -  INFO (com.cpssoft.web.test.framework.Main:26) - Run test executor with arguments: ["name=Trial Test","driver=phantomjs","phantomjs-bin="]
+2014-11-13 09:29:43,123 ACC -  INFO (com.cpssoft.web.test.framework.Main:26) - Run test executor with arguments: ["name=Trial Test","driver=phantomjs","phantomjs-bin="]
+2014-11-13 09:30:09,895 ACC -  INFO (com.cpssoft.web.test.framework.Main:26) - Run test executor with arguments: ["name=Trial Test","driver=phantomjs","phantomjs-bin=/Volumes/DATA/phantomjs-1.9.8-macosx/bin/phantomjs","tc=trial/tc1.xlsx","tc=trial/tc2.xlsx"]
